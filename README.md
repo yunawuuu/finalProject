@@ -14,51 +14,36 @@ This project will have several iterative deadlines below:
 | **Project Proposal (about one page)  **           | 9/24             |               |                 |
 | Clearly stated question                           |              |               | 5               |
 | Identified potential data sources                 |              |               | 5               |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | _Subtotal_                                          |              |               | 10              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | **Literature Review **                                |  10/22            |               |                 |
 | At least five references in the bibliography (use a .bib file) |              |               | 2.5             |
 | Properly include in-text citations (easier with [LaTeX](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex) or [Rmarkdown](https://bookdown.org/fmcron/Rhodes-template/bibliographies.html))  |              |               | 2.5             |
 | Organized by method/finding not chronologically   |              |               | 5               |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | _Subtotal_                                          |              |               | 10              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | **Data Description**                               |     11/17         |               |                 |
 | Clear, concise summary of dataset (source, basic)  |              |               | 5               |
 | Visualization of key feature in data              |              |               | 5               |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | _Subtotal_                                          |              |               | 10              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | **Methods**                                        |  12/11 (with paper)     |               |                 |
 | At least 1 properly formatted equation             |              |               | 5               |
 | Appropriate econometric or data science technique for the question |              |               | 10              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | _Subtotal_                                          |              |               | 15              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | **Findings**                                       |  12/11 (with paper)      |               |                 |
 | At least 1 table and 1 graphical visualization     |              |               | 5               |
 | Clear, concise explanation of data                 |              |               | 10              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | _Subtotal_                                          |              |               | 15              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | **Code to reproduce results **                     |  12/11 (with paper)      |               |                 |
 | README file with directions on how to replicate... |              |               | 10              |
 | Automated compilation of figures / tables / ot... |              |               | 5               |
 | Exhibits good programming practices               |              |               | 2.5             |
 | Thoughtfully organized                            |              |               | 2.5             |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | _Subtotal_                                          |              |               | 20              |
-|---------------------------------------------------|--------------|---------------|-----------------|
 |** Written Report **                                   |    12/11          |               |                 |
 | 5-10 pages (excluding References, Tables, and Figures) |              |               | 5               |
 | Compiled in LaTeX or Rmarkdown                    |              |               | 5               |
 | Contains 6 sections: intro, lit rev, data, methods, findings, conclusion |              |               | 5               |
 | Source code of report (.Rmd or .tex) included with other code |              |               | 5               |
-|---------------------------------------------------|--------------|---------------|-----------------|
 | _Subtotal_                                          |              |               | 20              |
-|---------------------------------------------------|--------------|---------------|-----------------|
-|---------------------------------------------------|--------------|---------------|-----------------|
 | **Grand total**                                       |              |               | 100             |
 
 ## Project Proposal
