@@ -32,7 +32,7 @@ This project will have several iterative deadlines below:
 | At least 1 table and 1 graphical visualization     |              |               | 5               |
 | Clear, concise explanation of data                 |              |               | 10              |
 | _Subtotal_                                          |              |               | 15              |
-| **Code to reproduce results **                     |  12/11 (with paper)      |               |                 |
+| **Code to reproduce results**                     |  12/11 (with paper)      |               |                 |
 | README file with directions on how to replicate... |              |               | 10              |
 | Automated compilation of figures / tables / ot... |              |               | 5               |
 | Exhibits good programming practices               |              |               | 2.5             |
