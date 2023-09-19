@@ -2,11 +2,9 @@
 This repository will be where you complete your final project for the class Big Data and Economics. 
 
 ## Steps to get started:
-1. Fork this repository to your repo.
-2. Make this repository private by navigating to `Settings` and changing it to private under the **Danger Zone**
-3. Make me (kgcsport) a collaborator on your repository under `Settings` > `Collaborators and teams`. Use the green `Add people` button. You can give me `Read` or `Triage` access. 
-4. Clone your repository to your personal computer, so you can get to work and add files iteratively.
-5. Start developing your project. 
+1. Make this repository private by navigating to `Settings` and changing it to private under the **Danger Zone**
+2. Clone your repository to your personal computer, so you can get to work and add files iteratively.
+3. Start developing your project. 
 
 # README (insert a title here)
 *Use this space to create a README for the project so that I (or someone else) could happen upon this repository and understand:
@@ -80,4 +78,7 @@ Put all of the above together.
 ## Code
 I am evaluating on how the code works. I should be able to run it on my computer.
 
+# End of project
+When the semester is over you will lose access to this repository because it is attributed to the Fall 2023 classroom organization. If you would like to preserve this exact repository, get in touch. Alternatively, you can create a separate repository for this project on your own GitHub account. Then you will clone that new repository to your computer and copy the files from this project repository to this new repository, commit and push them so they live on your own account. 
 
+You will lose some of my feedback, pull requests, etc. but otherwise keep your work. 
