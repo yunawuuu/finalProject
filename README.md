@@ -11,11 +11,11 @@ This repository will be where you complete your final project for the class Big 
 This project will have several iterative deadlines below:
 | Category / Description                            | Due Date         | Points Earned | Points Possible |
 |---------------------------------------------------|--------------|---------------|-----------------|
-| **Project Proposal (about one page)  **           | 9/24             |               |                 |
+| **Project Proposal** (about one page)           | 9/24             |               |                 |
 | Clearly stated question                           |              |               | 5               |
 | Identified potential data sources                 |              |               | 5               |
 | _Subtotal_                                          |              |               | 10              |
-| **Literature Review **                                |  10/22            |               |                 |
+| **Literature Review**                                |  10/22            |               |                 |
 | At least five references in the bibliography (use a .bib file) |              |               | 2.5             |
 | Properly include in-text citations (easier with [LaTeX](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex) or [Rmarkdown](https://bookdown.org/fmcron/Rhodes-template/bibliographies.html))  |              |               | 2.5             |
 | Organized by method/finding not chronologically   |              |               | 5               |
@@ -38,7 +38,7 @@ This project will have several iterative deadlines below:
 | Exhibits good programming practices               |              |               | 2.5             |
 | Thoughtfully organized                            |              |               | 2.5             |
 | _Subtotal_                                          |              |               | 20              |
-|** Written Report **                                   |    12/11          |               |                 |
+|** Written Report**                                   |    12/11          |               |                 |
 | 5-10 pages (excluding References, Tables, and Figures) |              |               | 5               |
 | Compiled in LaTeX or Rmarkdown                    |              |               | 5               |
 | Contains 6 sections: intro, lit rev, data, methods, findings, conclusion |              |               | 5               |
