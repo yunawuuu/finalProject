@@ -2,9 +2,11 @@
 This repository will be where you complete your final project for the class Big Data and Economics. 
 
 ## Steps to get started:
-1. Make this repository private by navigating to `Settings` and changing it to private under the **Danger Zone**
-2. Clone your repository to your personal computer, so you can get to work and add files iteratively.
-3. Start developing your project. 
+1. Fork this repository.
+2. Make sure this repository is private by navigating to `Settings` and changing it to Private under the **Danger Zone**
+3. Add me (kgcsport) as a collaborator by going to `Settings` > `Collaborators and teams`. 
+4. Clone your repository to your personal computer, so you can get to work on it over time.
+5. Start developing your project. 
 
 # README (insert a title here)
 *Use this space to create a README for the project so that I (or someone else) could happen upon this repository and understand:
@@ -28,6 +30,10 @@ This project will have several iterative deadlines below:
 | **Data Description**                               |     11/17         |               |                 |
 | Clear, concise summary of dataset (source, basic)  |              |               | 5               |
 | Visualization of key feature in data              |              |               | 5               |
+| _Subtotal_                                          |              |               | 10              |
+|**Peer Review**                                       |    12/1          |               |                 |
+| Constructive feedback                                 |              |               | 5               |
+| Potentially suggest new code                         |              |               | 5               |
 | _Subtotal_                                          |              |               | 10              |
 | **Methods**                                        |  12/11 (with paper)     |               |                 |
 | At least 1 properly formatted equation             |              |               | 5               |
@@ -77,8 +83,3 @@ Put all of the above together.
 
 ## Code
 I am evaluating on how the code works. I should be able to run it on my computer.
-
-# End of project
-When the semester is over you will lose access to this repository because it is attributed to the Fall 2023 classroom organization. If you would like to preserve this exact repository, get in touch. Alternatively, you can create a separate repository for this project on your own GitHub account. Then you will clone that new repository to your computer and copy the files from this project repository to this new repository, commit and push them so they live on your own account. 
-
-You will lose some of my feedback, pull requests, etc. but otherwise keep your work. 
