@@ -38,7 +38,7 @@ This project will have several iterative deadlines below:
 | Exhibits good programming practices               |              |               | 2.5             |
 | Thoughtfully organized                            |              |               | 2.5             |
 | _Subtotal_                                          |              |               | 20              |
-|** Written Report**                                   |    12/11          |               |                 |
+|**Written Report**                                   |    12/11          |               |                 |
 | 5-10 pages (excluding References, Tables, and Figures) |              |               | 5               |
 | Compiled in LaTeX or Rmarkdown                    |              |               | 5               |
 | Contains 6 sections: intro, lit rev, data, methods, findings, conclusion |              |               | 5               |
