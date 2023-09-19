@@ -1,6 +1,13 @@
 # Final Project
 This repository will be where you complete your final project for the class Big Data and Economics. 
 
+## Steps to get started:
+1. Fork this repository to your repo.
+2. Make this repository private by navigating to `Settings` and changing it to private under the **Danger Zone**
+3. Make me (kgcsport) a collaborator on your repository under `Settings` > `Collaborators and teams`. Use the green `Add people` button. You can give me `Read` or `Triage` access. 
+4. Clone your repository to your personal computer, so you can get to work and add files iteratively.
+5. Start developing your project. 
+
 # README (insert a title here)
 *Use this space to create a README for the project so that I (or someone else) could happen upon this repository and understand:
 1. What is the project about?
@@ -71,7 +78,6 @@ Tell me what you told me and potential directions for future research.
 Put all of the above together.
 
 ## Code
-I am evaluating on how the code works. 
+I am evaluating on how the code works. I should be able to run it on my computer.
 
-# End of class note:
-If you want to keep this repository associated with your GitHub name at the end of the course. You will need to change ownership of the repository under `Settings` above. See [transferring a repository]([https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-organization)https://docs.github.com/en/repositories/creating-and-managing-repositories/transferring-a-repository#transferring-a-repository-owned-by-your-organization) for more information. 
+
