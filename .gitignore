@@ -47,3 +47,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Large data files -- use !filename.extension to take a specific large data file
+*.csv
+*.dta
+*.tsv
+*.zip
+*.parquet
+*.json
