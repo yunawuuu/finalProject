@@ -71,6 +71,8 @@ This should clearly describe the data:
 - How could I access it?
 - Summary of key features of the data
 
+You can find some "big" datasets at [kaggle](https://www.kaggle.com/datasets) or a guide by [Christine Murray]( https://libguides.bates.edu/ECON368).
+
 ## Methods
 Tell me what empirical method you are using, how it addresses the question, and what potential flaws with this method are. For example, if you use difference-in-difference design, tell me about the parallel trends assumption and what it means in your setting. 
 
