@@ -6,7 +6,9 @@ This repository will be where you complete your final project for the class Big 
 2. Make sure this repository is private by navigating to `Settings` and changing it to Private under the **Danger Zone**
 3. Add me (kgcsport) as a collaborator by going to `Settings` > `Collaborators and teams`. 
 4. Clone your repository to your personal computer, so you can get to work on it over time.
-5. Start developing your project. 
+5. Create folders for `code`, `data`, `writing`, `literature`, or any others that feel relevant. Turn in the project proposal, literature review, data analysis, and final written project, as well as their associated `*tex.` or `.Rmd` code in the `writing` folder. 
+6. Add files to your `.gitignore` like `*.csv`, `*.dta`, `*.tsv` that I have not added. 
+7. Start developing your project.
 
 # README (insert a title here)
 *Use this space to create a README for the project so that I (or someone else) could happen upon this repository and understand:
