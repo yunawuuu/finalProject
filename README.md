@@ -71,7 +71,43 @@ This should clearly describe the data:
 - How could I access it?
 - Summary of key features of the data
 
-You can find some "big" datasets at [kaggle](https://www.kaggle.com/datasets) or a guide by [Christine Murray]( https://libguides.bates.edu/ECON368).
+## Possible datasets to use:
+This list is also not exhaustive. Not all datasets you can find below are big, but they are publicly available. If you come up with a good project that can be done with big data that's not accessible, one of the datasets below might substitute for this course. I will penalize you for needing data that you cannot access. In fact, I will reward you for being creative to see what you can still learn with what is publicly available. 
+
+### General
+- [kaggle](https://www.kaggle.com/datasets)
+- Bates guide by [Christine Murray]( https://libguides.bates.edu/ECON368).
+- [TidyTuesday data](https://github.com/rfordatascience/tidytuesday)
+
+### Government
+- [Data.gov](https://data.gov/)
+- [NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets) atmosphere data
+- [OpenFEMA](https://www.fema.gov/about/reports-and-data/openfema)
+- [Center for Medicaid and Medicare Services](https://data.cms.gov/)
+- [NYC OpenData](https://opendata.cityofnewyork.us/data/), [LA Open Data](https://data.lacity.org/), etc.
+- [FEC Campaign Finance Data](https://www.fec.gov/data/browse-data/)
+- [National Archives](https://www.archives.gov/open/available-datasets.html)
+- [FOIA Data Set Downloads](https://www.foia.gov/foia-dataset-download.html)
+  
+### Research-related
+- [J-Pal Catalog of Administrative Datasets](https://www.povertyactionlab.org/catalog-administrative-data-sets)
+- [Opportunity Insights Data](https://www.povertyactionlab.org/catalog-administrative-data-sets)
+- [Recommender System and Personalization Datsets](https://cseweb.ucsd.edu/~jmcauley/datasets.html)
+- [NBER Public Use Data](https://www.nber.org/research/data?page=1&perPage=50)
+- [NonProfit Open Data Collective](https://github.com/orgs/Nonprofit-Open-Data-Collective/repositories)
+
+### Journalism
+- [ProPublica Data "store"](https://www.propublica.org/datastore/datasets)
+- [ProPublica Data APIs](https://www.propublica.org/datastore/apis)
+- [FiveThirtyEight data archive](https://github.com/fivethirtyeight) -- especially the [Uber TLC Foil](https://github.com/fivethirtyeight/uber-tlc-foil-response)
+
+### Social Media
+- [Data for Good](https://dataforgood.facebook.com/) by Facebook
+- [Amazon AWS Open Data Source Project](https://aws.amazon.com/marketplace/pp/prodview-zxtb4t54iqjmy?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
+- [FOMC Historical Transcripts](https://www.federalreserve.gov/monetarypolicy/fomc_historical.htm)
+- [Twitter Datasets](https://github.com/shaypal5/awesome-twitter-data)
+
+and much, much more.
 
 ## Methods
 Tell me what empirical method you are using, how it addresses the question, and what potential flaws with this method are. For example, if you use difference-in-difference design, tell me about the parallel trends assumption and what it means in your setting. 
