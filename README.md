@@ -67,7 +67,7 @@ This should walk through critical literature related to your topic. These should
 
 The literature review should be in an essay format. You should talk about what other scholarly work has been done on the question you are answering. 
 
-### Goals of literature
+### Goals of literature review
 
 Here are goals summarized from a guide by [Duke University](https://econ.duke.edu/sites/econ.duke.edu/files/documents/Writing%20Literature%20Reviews.pdf.
 
