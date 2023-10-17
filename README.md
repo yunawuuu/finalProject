@@ -65,6 +65,43 @@ This should be one page at most. The key thing is to identify a research questio
 ## Literature Review
 This should walk through critical literature related to your topic. These should be scholarly sources or data science sources (depending on the research question). 
 
+The literature review should be in an essay format. You should talk about what other scholarly work has been done on the question you are answering. 
+
+### Goals of literature
+
+Here are goals summarized from a guide by [Duke University](https://econ.duke.edu/sites/econ.duke.edu/files/documents/Writing%20Literature%20Reviews.pdf.
+
+1. Critically analyze the body of work on a question
+  - Identify strengths and weaknesses of past work
+  - Concisely highlight the most important things to know about other work -- *Note: You decide what think is most important to highlight.*
+2. Put your project in context of the literature
+  - Is your paper one of the first one a topic?
+  - One of a ton?
+  - Is it the first empirical paper on a topic that is otherwise answered using theory?
+3. Highlight your contribution
+  - Richer data than before?
+  - New estimation technique?
+  - New question that has never been answered before?
+4. Establish scholarly credentials
+  - Shows you did your homework
+  - You know the lit and where you are adding
+
+### Organization
+
+1. Begin with comments on the body of research as a whole.
+  - Start broad and narrow in. Assess the big picture of the literature.
+2. Organize your review according to a theme (data, methodology, results, etc.)
+  - You should organize your literature review by **theme** rather than date. A theme could be the data used, the methodology, or the results. Something that links together the disparate work that helps a reader make sense of what is known and where scholars disagree. 
+3. Start paragraphs with explicit context sentence. What part of the theme are we talking about here? Datasets? Methods?
+4. Highlight merits and shortcomings of existing studies.
+5. Highlight how your study contributes.
+
+#### Citation style: APA, Chicago, JEL, etc. (I'm not picky, just pick one and stick to it.)
+
+#### What not to do:
+1. Explain every study you cite in full detail
+2. Give general statements about the literature like "Scholars think XYZ." Cite explicitly.
+  
 ## Data Description
 This should clearly describe the data:
 - Where did it come from?
